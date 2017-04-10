@@ -1,0 +1,6 @@
+(7) Identify which of these URLs are relative URL’s and which are absolute URLs:
+www.google.com absolute
+../pic/dog.jpg  relative
+/pic/dog.jpg  absolut //vem do root
+chapter07/index.html  relative pq nao tem /,
+ vai do seu documento e nao do root

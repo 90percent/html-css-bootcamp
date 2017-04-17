@@ -1,0 +1,20 @@
+a{
+  font-size: 20px;
+  border: 20px dashed green;
+}
+
+a:link{
+  color:blue;
+}
+
+a:visited{
+  color: pink;
+}
+
+a:hover{
+  color: red;
+}
+
+a:active{
+  color: silver;
+}

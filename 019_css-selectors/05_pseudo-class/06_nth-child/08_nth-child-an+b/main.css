@@ -1,0 +1,7 @@
+
+/*comecar com 8 e ir a cada 10*/
+/*li:nth-child(10n+8)*/
+/*li:nth-child(3n+9)*/
+li:nth-child(9n+3){
+  color: red;
+}

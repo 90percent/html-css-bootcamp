@@ -1,0 +1,10 @@
+/* Podemos perceber a petulancia que focus é a mesma coisa de active só que é um modo diferente, as vezes pode active pelo teclado com tab e talz*/
+
+
+a {
+    font-size: 200px;
+}
+
+a:focus {
+    color: red;
+}

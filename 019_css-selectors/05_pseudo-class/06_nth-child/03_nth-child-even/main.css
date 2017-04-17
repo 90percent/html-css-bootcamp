@@ -1,0 +1,11 @@
+/*We are even now, nos estamos quites, pares, ideias pareadas*/
+
+/*even = numero par*/
+
+body {
+    font-size: 36px;
+}
+
+li:nth-child(even) {
+    color: red;
+}

@@ -1,0 +1,32 @@
+html{
+  background-color: dodgerblue
+}
+body{
+
+  width: 60%;
+  margin: 0 auto;
+  background-color: lawngreen;
+  border: 5px solid black; /*tem que especificar o tipo da borda antes da cor!!*/
+  padding: 10px;
+
+}
+
+
+img {
+  border: 20px groove yellow;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto;
+}
+
+h1{
+  font-size: 20px;
+  color: blue;
+  margin: 10px;
+}
+
+h2{
+  font-size: 20px;
+  color: red;
+  margin: 10px;
+}

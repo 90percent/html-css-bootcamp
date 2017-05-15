@@ -1,0 +1,16 @@
+h1 {
+    color: red;
+}
+
+/*Primeira cor é azul pq ID ganha de classe*/
+#emph {
+    color: blue;
+}
+
+.cowboy {
+    color: green;
+}
+/*Segunda cor que fica é amarela pq ela é declarada por ultimo no css. Last rule applied wins. */
+.emphasize {
+    color: yellow;
+}

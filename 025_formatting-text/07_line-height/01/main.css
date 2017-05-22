@@ -1,0 +1,9 @@
+h1 {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 8rem;
+    font-weight: normal;
+    font-variant: small-caps;
+    line-height: 2;
+/*pode usar numero(no exemplo 2), normal, ou 1.5, documentacao tem os values que podem ser utilizados*/
+    border: 1px dashed hotpink;
+}

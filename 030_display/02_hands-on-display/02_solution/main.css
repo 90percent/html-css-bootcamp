@@ -1,0 +1,23 @@
+div{
+
+height: 50px;
+width:100px;
+border: 2px solid black;
+border-radius: 25%;
+display: inline-block;
+}
+
+.cor1{
+  background-color: red;
+}
+.cor2{
+  background-color: blue;
+}
+
+.cor3{
+  background-color: yellow;
+}
+
+.cor4{
+  background-color: green;
+}

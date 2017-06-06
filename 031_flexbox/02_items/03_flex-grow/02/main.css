@@ -1,0 +1,10 @@
+/*todos tem a mesma proporcao de flex grow*/
+body {
+    display: flex;
+}
+
+div {
+    border: 2px solid black;
+    height: 100px;
+    flex-grow: 1;
+}

@@ -1,0 +1,17 @@
+/*mais um exemplo de flex grow cercado de proporcoes menores e o do meio cresce com o dobro de proporcao*/
+body {
+    display: flex;
+}
+
+div {
+    border: 2px solid black;
+    height: 100px;
+}
+
+.flex1 {
+    flex-grow: 1;
+}
+
+.flex2 {
+    flex-grow: 2;
+}

@@ -1,0 +1,31 @@
+body {
+    display: flex;
+    flex-flow: row wrap;
+    /* formatting */
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+
+div{
+/*formating*/
+text-align: center;
+  min-height: 100px;
+}
+
+.c1, .c2{
+  width: 100%;
+}
+
+.c3, .c4{
+  width: 50%;
+}
+
+.c5, .c6{
+  width: 20%;
+}
+
+.c7{
+  width: 60%;
+}

@@ -1,0 +1,19 @@
+html, body{
+  padding: 0;
+  margin: 0;
+
+
+}
+
+footer{
+  /*pode substituir right e left por width 100%*/
+
+  position: fixed;
+  /*right: 0;*/
+  bottom: 0;
+  /*left: 0; */
+  height: 20px;
+  width: 100%;
+  border: 5px solid darkorange;
+  background-color: tomato;
+}

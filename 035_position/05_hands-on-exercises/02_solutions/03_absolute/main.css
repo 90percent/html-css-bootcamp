@@ -1,0 +1,25 @@
+body{
+  border: 2px solid black;
+  height: 1000px;
+  width: 100%;
+}
+
+div{
+  border: 5px solid tomato;
+}
+
+#relative{
+  position: relative;
+  background-color: red;
+  height: 500px;
+  width: 500px;
+}
+
+#absolute{
+  position: absolute;
+  background-color: hotpink;
+  right: 20px;
+  top: 150px;
+  height: 100px;
+  width: 100px;
+}

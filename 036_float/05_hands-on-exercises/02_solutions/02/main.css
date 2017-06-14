@@ -1,0 +1,9 @@
+body, img{
+  border: 5px solid red;
+  margin: 20px;
+}
+
+
+img{
+  float: left;
+}

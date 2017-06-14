@@ -1,0 +1,13 @@
+body, img{
+  border: 5px solid red;
+  margin: 20px;
+  overflow: auto;
+}
+body{
+  height: 1000px;
+  width: 1000px;
+}
+
+img{
+  float: left;
+}

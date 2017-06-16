@@ -1,0 +1,18 @@
+body {
+    padding: 0;
+    border: 0;
+    margin: 0;
+}
+body{
+  /*fica centrado mais pra cima pq o body nao esta com a heigh definida. se eu coloco border eu defino e entao scroll bar some. Outra maneira de definir height é definir height*/
+  /*border: 5px solid black;*/
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: red;
+}
+
+h1{
+  font-size: 6em;
+  color: whitesmoke;
+}

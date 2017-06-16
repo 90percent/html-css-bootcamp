@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* formatting */
+    /*AQUI ESTA A ABREVIACAO*/
+    background: red;
+    height: 100vh;
+}
+
+h1 {
+    color: whitesmoke;
+    font-size: 20rem;
+}

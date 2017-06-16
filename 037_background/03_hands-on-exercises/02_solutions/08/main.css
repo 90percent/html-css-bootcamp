@@ -1,0 +1,14 @@
+body{
+  padding: 0;
+  border: 0;
+  margin: 0;
+}
+div{
+  background-image: url("../../../../000_img/doggo.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+/*formatting*/
+  border: 5px groove gold;
+  width: 100px;
+  height:100px;
+}

@@ -1,0 +1,19 @@
+div {
+    width: 600px;
+    height: 600px;
+    border: 50px solid rgba(0,0,0,1);
+    background-image: url("../../../../000_img/doggo.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    /*imagem fica no content*/
+    /*background-origin: content-box;*/
+
+    /*imagem fica no padding*/
+    /*background-origin: padding-box;*/
+
+    /*imagem fica no border*/
+    background-origin: border-box;
+    padding: 40px;
+    color: white;
+    background-color: #3A5FCD;
+}

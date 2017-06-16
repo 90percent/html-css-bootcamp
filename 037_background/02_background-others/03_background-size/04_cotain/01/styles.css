@@ -1,0 +1,6 @@
+body {
+    border: 1px solid hotpink;
+    background-image: url("../../../../../000_img/doggo.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+}

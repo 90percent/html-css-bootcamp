@@ -1,0 +1,12 @@
+#idx-atf{
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
+  border: 3px solid hotpink;
+  height: 100vh;
+}
+
+#idx-center{
+  text-align: center;
+}

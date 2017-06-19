@@ -1,0 +1,35 @@
+html {
+    /*border: 10px solid blue;*/
+}
+
+body {
+    /*border: 10px solid green;*/
+}
+
+#idx-atf {
+    /*layout*/
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /*formatting*/
+    border: 10px solid hotpink;
+    /*background image*/
+    background-color: darkgrey;
+    background-image: url("../../000_img/background-photo.jpg");
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+    background-origin: border-box;
+    background-attachment: fixed;
+
+}
+
+.idx-center {
+    display: flex;
+    flex-direction: column;
+    /*flex-wrap: nowrap;*/
+    /*flex-flow: column nowrap;*/
+    justify-content: center;
+    align-items: center;
+}

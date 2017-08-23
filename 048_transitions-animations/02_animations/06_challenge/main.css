@@ -1,0 +1,41 @@
+/*
+animation-name: none
+animation-duration: 0s
+animation-timing-function: ease
+animation-delay: 0s
+animation-iteration-count: 1
+animation-direction: normal
+animation-fill-mode: none
+animation-play-state: running
+*/
+
+
+html, body {
+    padding: 0;
+    border: 0;
+    margin: 0;
+    box-sizing: border-box;
+    height: 100%;
+}
+
+body {
+    border: 4px solid hotpink;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p {
+    color: red;
+    font-size: 1rem;
+    animation-name: grow-text;
+    animation-duration: 2s;
+    animation-timing-function: ease;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+@keyframes grow-text {
+    0% {font-size: 1rem;}
+    100% {font-size: 17rem;}
+}
